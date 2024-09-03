@@ -1,0 +1,23 @@
+{
+  "eslint.enable": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "__debug_bin": true,
+    "vendor/": true,
+    "go.sum": true
+  },
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "files.insertFinalNewline": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "workbench.iconTheme": "vscode-icons",
+  "[markdown]": {
+    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+  },
+  "git.ignoreLimitWarning": true
+}

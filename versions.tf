@@ -12,5 +12,5 @@ terraform {
 provider "tfe" {
   # Configuration options
   hostname = "app.terraform.io"
-  token    = var.token
+  token    = var.tfe_token
 }

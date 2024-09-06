@@ -185,8 +185,8 @@ No modules.
 | Name | Description |
 |------|-------------|
 | <a name="output_tfe_organization"></a> [tfe_organization](#output_tfe_organization) | The name of the TFE organization |
-| <a name="output_tfe_projects"></a> [tfe_project](#output_tfe_projects) | The name of the TFE projects |
-| <a name="output_tfe_workspaces"></a> [tfe_workspace](#output_tfe_workspaces) | The name of the TFE workspaces |
+| <a name="output_tfe_projects"></a> [tfe_project](#output_tfe_projects) | The names of the TFE projects |
+| <a name="output_tfe_workspaces"></a> [tfe_workspace](#output_tfe_workspaces) | The names of the TFE workspaces |
 
 ## Authors
 
